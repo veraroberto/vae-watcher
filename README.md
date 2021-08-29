@@ -43,4 +43,5 @@ Using machine learning, a forecast was made for the number of adverse events rep
 Visit it at: https://bit.ly/vaedb-2021
 
 ### Live App
-Visit it at: https://vae-project.herokuapp.com/index.html
+Visit it at: https://vae-watcher.herokuapp.com/
+
