@@ -1,6 +1,13 @@
 # Final Project: VAE Watch
 Repository for our final project, integrating machine learning, web design and visualization, databases and Python programming. Our goal was to create a model that predicts vaccine adverse effects (VAE) and create a visualization dashboard with the data.
 
+# Patricipants
+- Raul Maya
+- Veronica Castillo
+- Hussein Huesca
+- Omar Rivera
+- Roberto Vera
+
 # Analysis Results
 ## Machine Learning: Linear Analysis/Word Analysis
 For this analysis, we tried performing linear regressions on several of the variables included in our data. The most interesting findings had to do with age, reaction severity and deaths. Deaths, on one hand, follow a skewed normal distribution, where the most deaths ocurred between people of ages 80 to 90. In terms of age and severity, younger people have stronger reactions (with more symptoms) due to the immune system slowing down with age. However, while being younger can cause you a stronger reaction, you're less likely to die from that reaction.
