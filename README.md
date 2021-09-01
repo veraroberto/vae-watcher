@@ -2,11 +2,11 @@
 Repository for our final project, integrating machine learning, web design and visualization, databases and Python programming. Our goal was to create a model that predicts vaccine adverse effects (VAE) and create a visualization dashboard with the data.
 
 # Patricipants
-- Raul Maya
-- Veronica Castillo
-- Hussein Huesca
-- Omar Rivera
-- Roberto Vera
+- [Raul Maya](https://github.com/RaulMaya)
+- [Veronica Castillo](https://github.com/verocastillo)
+- [Hussein Huesca](https://github.com/husseinhuesca)
+- [Omar Rivera](https://github.com/Omargib)
+- [Roberto Vera](https://github.com/veraroberto/) 
 
 # Analysis Results
 ## Machine Learning: Linear Analysis/Word Analysis
